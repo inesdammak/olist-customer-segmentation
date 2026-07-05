@@ -49,7 +49,7 @@ pip install -r requirements.txt
 Puis lance Jupyter :
 
 ```bash
-jupyter notebook notebooks/Olist_Scoring_Marketing_Predictif.ipynb
+jupyter notebook Olist_Scoring_Marketing_Predictif.ipynb
 ```
 
 ## 📦 Stack technique
